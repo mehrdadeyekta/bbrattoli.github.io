@@ -38,17 +38,26 @@ sidebar:
       - item: Boxing
         link:
 
-      - item: Board Games
+      - item: Playing Board Games
         link:
 
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
-      Hands on Software Design and Development Experience with Deep Packet Inspection Technologies.
-      4+ years experience with C++ programming language especially network programming. Good knowledge of modern C++ like C++11 and familiar with C programming language.
-      Good knowledge of all the layers of the OSI protocol stack specially application protocols like HTTP, TLS, STUN, etc. Familiarity with security aspects in networking.
-      Worked with tools and technologies like DPDK, Hyperscan, Protobuf, Wireshark, Tshark, Tcpdump, gdb, valgrind, vtune, etc.
+      Hands on Software Design and Development Experience with Deep Packet
+      Inspection Technologies.
+
+      4+ years experience with C++ programming language especially network
+      programming. Good knowledge of modern C++ like C++11 and familiar with
+      C programming language.
+
+      Good knowledge of all the layers of the OSI protocol stack specially
+      application protocols like HTTP, TLS, STUN, etc. Familiarity with
+      security aspects in networking.
+
+      Worked with tools and technologies like DPDK, Hyperscan, Protobuf,
+      Wireshark, Tshark, Tcpdump, gdb, valgrind, vtune, etc.
 
 
 experiences:
@@ -56,9 +65,10 @@ experiences:
       time: 2019 - Present
       company: Sahab Pardaz, Tehran
       details: |
-        I work with 5 great network traffic analyst and help together
-        to make good DPI system. our product listen to network traffic
-        and assign labels for each session.
+        Work with 5 other people on DPI system. our product listen to network
+        traffic and assign labels for each session. for most protocols our DPI
+        assign labels with 100% accuracy.
+
 
     - role: Software Engineer
       time: 2016 - 2019
@@ -67,7 +77,7 @@ experiences:
         I work on a great network traffic manager system and write codes
         with C++ programming language.
         This TM (Traffic Manager) is high throughput and high perfromance
-        module that can proccess on 10Gb network links and with delay less
+        module that can proccess 10Gb network links and with delay less
         than 2ms.
 
 
@@ -75,8 +85,8 @@ experiences:
       time: 2015 - 2016
       company: Naeem, Tehran
       details: |
-          - Do some small programming tasks with Java and Python programming languages
-          - Design and implement a customized high perfromance in-memory graph database with C programming language.
+        Design and implement a customized high perfromance in-memory graph
+        database with C programming language.
 
 
 education:
