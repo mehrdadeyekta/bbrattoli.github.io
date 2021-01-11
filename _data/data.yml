@@ -48,7 +48,7 @@ career-profile:
       Hands on Software Design and Development Experience with Deep Packet
       Inspection Technologies.
 
-      4+ years experience with C++ programming language especially network
+      5+ years experience with C++ programming language especially network
       programming. Good knowledge of modern C++ like C++11 and familiar with
       C programming language.
 
@@ -65,7 +65,7 @@ experiences:
       time: 2019 - Present
       company: Sahab Pardaz, Tehran
       details: |
-        Work with 5 other people on DPI system. our product listen to network
+        Work with 8 other people on DPI system. our product listen to network
         traffic and assign labels for each session. for most protocols our DPI
         assign labels with 100% accuracy.
 
@@ -99,34 +99,6 @@ education:
       university: Amirkabir University of Technology (Tehran Polytechnic)
       time: 2012 - 2017
       details: |
-
-#projects:
-    #title: Projects
-    #intro: >
-      #You can list your side projects or open source libraries in this
-      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    #assignments:
-      #- title: Velocity
-        #link: "#hook"
-        #tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      #- title: DevStudio
-        #link: "#"
-        #tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      #- title: Tempo
-        #link: "#"
-        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      #- title: Atom
-        #link: "#"
-        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      #- title: Delta
-        #link: "#"
-        #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
 skills:
